@@ -1,5 +1,4 @@
-# Learning Data Mode and Tree Structure Information
-for Query Performance Prediction
+# Learning Data Mode and Tree Structure Information for Query Performance Prediction
 
 Source code of Feature Encoding and Model Training for QPP based on PostgreSQL Execution Plans.
 Query performance prediction(QPP) without actual execution could be used by other database tasks, including admission control decision, query scheduling decision, query monitoring, and resource management.
