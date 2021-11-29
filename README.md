@@ -14,7 +14,7 @@ python -m unittest code.test.test_training.TestTraining
 ### Test Data
 For Nemerical workload: https://github.com/andreaskipf/learnedcardinalities
 
-For Complete JOB: https://pan.baidu.com/s/15TaOAZqjlZxfwLiD3Si07w  password: ftuy
+For Complete JOB: https://pan.baidu.com/s/1n9mf9IwPgSduJORDslSTFg password: 3sjs 
 
 ### Contact
 
